@@ -1,0 +1,12 @@
+{
+  "table_name": "capBudgWS-INITIAL INVESTMENT",
+  "row_names": [
+    "Initial Investment=",
+    "Opportunity cost (if any)=",
+    "Lifetime of the investment",
+    "Salvage Value at end of project=",
+    "Deprec. method(1:St.line;2:DDB)=",
+    "Tax Credit (if any )=",
+    "Other invest.(non-depreciable)="
+  ]
+}
