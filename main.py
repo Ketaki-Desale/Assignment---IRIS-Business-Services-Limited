@@ -13,7 +13,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-EXCEL_PATH = "C:\\Users\\KetakiDesale\\Downloads\\Project\\capbudg (3).xlsx"  # Make sure this file exists
+EXCEL_PATH = "C:\\Users\\KetakiDesale\\Downloads\\Project\\capbudg (3).xlsx"  
 
 def load_excel():
     try:
